@@ -7488,6 +7488,7 @@ button.close {
     border-left-color: #fff
 }
 
+/*
 .carousel {
     position: relative
 }
@@ -7739,6 +7740,7 @@ button.close {
         bottom: 20px
     }
 }
+*/
 
 .btn-group-vertical>.btn-group:after,
 .btn-group-vertical>.btn-group:before,
