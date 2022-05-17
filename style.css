@@ -270,6 +270,12 @@ a:hover {
 
 .voffset {
     margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.cite {
+    margin-left: 25%;
 }
 
 .voffset-lg {
